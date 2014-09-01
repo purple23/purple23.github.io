@@ -1,0 +1,11 @@
+---
+layout: default
+---
+<article class="page">
+  <header>
+    <h1>{{ page.title }}</h1>
+    {% if page.author %}<address>{{ page.author }}{% endif %}
+    <time datetime="{{ page.date | date: "%Y-%m-%d" pubdate>{{ page.date | date: "%b %-d, %Y" }}</time>
+  </header>
+  {{ content }}
+</article>
