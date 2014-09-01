@@ -1,7 +1,7 @@
 ---
 title: I, Pencil
 author: Leonard E. Read
-layout: post
+pubdate: 1964
 ---
 
 *From Anything That's Peaceful: The Case for the Free Market, 1964*
@@ -84,4 +84,4 @@ The lesson I have to teach is this: Leave all creative energies uninhibited. Mer
 
 Note: His official name is "Mongol 482." His many ingredients are assembled, fabricated, and finished by Eberhard Faber Pencil Company, Wilkes-Barre, Pennsylvania.
 
-> Leonard E. Read was the founder of the Foundation for Economic Education – a pioneer libertarian educational organization. He sponsored the publication of Ludwig von Mises's Human Action, and help revive the libertarian movement in the US after World War II.
+* Leonard E. Read was the founder of the Foundation for Economic Education – a pioneer libertarian educational organization. He sponsored the publication of Ludwig von Mises's Human Action, and help revive the libertarian movement in the US after World War II.*
